@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187793954535",
+    "project_id": "sinar-surya-furniture",
+    "storage_bucket": "sinar-surya-furniture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187793954535:android:b781c34589f6b5f4ed3442",
+        "android_client_info": {
+          "package_name": "com.wendot.sinarsuryafurniture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJHZOpZr3SGQnl-BsrcjepoJm2VRfqbVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
